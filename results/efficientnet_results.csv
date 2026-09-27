@@ -1,0 +1,2 @@
+model,slice_accuracy,slice_precision,slice_recall,slice_f1,slice_auc,subject_accuracy,sensitivity,specificity
+EfficientNetB0 Feature Extraction,0.5064935064935064,0.0,0.0,0.0,0.49736842105263157,0.5064935064935064,0.0,1.0

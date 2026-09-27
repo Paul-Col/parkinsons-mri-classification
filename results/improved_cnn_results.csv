@@ -1,0 +1,2 @@
+model,slice_accuracy,slice_precision,slice_recall,slice_f1,slice_auc,subject_accuracy,sensitivity,specificity
+Improved CNN,0.8233766233766234,0.805,0.8473684210526315,0.8256410256410256,0.9157354925775978,0.8961038961038961,0.8473684210526315,0.8
