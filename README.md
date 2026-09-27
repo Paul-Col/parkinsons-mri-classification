@@ -1,7 +1,5 @@
 # Parkinson's Disease Neuroimaging Classification
 
-TM470 Computing and IT Project
-
 ## Aim
 
 Investigate the use of machine-learning and deep-learning
